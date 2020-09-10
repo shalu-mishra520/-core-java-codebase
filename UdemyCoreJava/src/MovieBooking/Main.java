@@ -17,6 +17,7 @@ public class Main {
 		boolean flag2=s.bookSeatNumber(s.getSeatName(),"cancel");
 		System.out.println(flag2);
 		System.out.println(s.book);
+		System.out.println("shalu");
 	}
 
 }
